@@ -2,7 +2,7 @@
 
 🚀 Aspiring Machine Learning Engineer  
 💡 Passionate about building real-world ML systems (not just notebooks)
-
+🧠 Strong in Data → Feature Engineering → Model → Deployment
 ---
 
 ## 🔥 What I'm Focused On
@@ -16,7 +16,7 @@
 
 ### 🥗 Featured Project: Nutrition Optimizer 2.0
 I recently built and deployed a Full-Stack ML application that predicts weight loss using Random Forest.
-* **🌐Live Link:** [https://rf-weight-predictor.onrender.com/]
+* **Live Link:** [https://rf-weight-predictor.onrender.com/]
 * **Tech:** FastAPI, Scikit-learn, Vanilla JS, Render.
 * **Key Challenge:** Implemented production guardrails to handle out-of-distribution health data.
 
@@ -44,5 +44,8 @@ I recently built and deployed a Full-Stack ML application that predicts weight l
 
 [💼 LinkedIn](www.linkedin.com/in/rajesh-kumar-9aa2261b7) | [📧 Email](hrajeshkumaran@gmail.com)
 
+---
+
+## 📊 GitHub Stats
 ![Rajesh's Stats](https://github-readme-stats.vercel.app/api?username=RajeshKumar3451&show_icons=true&theme=radical)
 
