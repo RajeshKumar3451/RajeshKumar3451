@@ -1,8 +1,11 @@
 # 👋 Hi, I'm Rajesh Kumar
 
 🚀 Aspiring Machine Learning Engineer  
+
 💡 Passionate about building real-world ML systems (not just notebooks)
+
 🎯 Focused on ML Engineering + System Design
+
 🧠 Strong in Data → Feature Engineering → Model → Deployment
 
 ---
