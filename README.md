@@ -2,9 +2,8 @@
 
 🚀 Aspiring Machine Learning Engineer  
 💡 Passionate about building real-world ML systems (not just notebooks)
-
 🧠 Strong in:
-- Data → Feature Engineering → Model → Deployment
+Data → Feature Engineering → Model → Deployment
 ---
 
 ## 🔥 What I'm Focused On
