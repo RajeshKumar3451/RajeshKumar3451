@@ -44,3 +44,5 @@ I recently built and deployed a Full-Stack ML application that predicts weight l
 
 [💼 LinkedIn](www.linkedin.com/in/rajesh-kumar-9aa2261b7) | [📧 Email](hrajeshkumaran@gmail.com)
 
+![Rajesh's Stats](https://github-readme-stats.vercel.app/api?username=RajeshKumar3451&show_icons=true&theme=radical)
+
