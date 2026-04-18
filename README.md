@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Rajesh Kumar
 
-- 🚀 Aspiring Machine Learning Engineer  
-- 💡 Passionate about building real-world ML systems (not just notebooks)
-- 🧠 Strong in Data → Feature Engineering → Model → Deployment
+🚀 Aspiring Machine Learning Engineer  
+💡 Passionate about building real-world ML systems (not just notebooks)
+🧠 Strong in Data → Feature Engineering → Model → Deployment
 ---
 
 ## 🔥 What I'm Focused On
@@ -39,9 +39,11 @@ I recently built and deployed a Full-Stack ML application that predicts weight l
 
 ### ☕ About Me
 * 🏃‍♂️ High-protein vegetarian (Team Soya Chunks!)
-* 🌊 Fragrance enthusiast (Ask me about aquatic scents).
+* ➡️ Currently exploring the beauty of **South India**-always happy to chat about the best coastal spots or hill stations.
 * 📍 Based in Bengaluru, India.
 
+---
+### 📫 Let's Connect!
 [💼 LinkedIn](www.linkedin.com/in/rajesh-kumar-9aa2261b7) | [📧 Email](hrajeshkumaran@gmail.com)
 
 ---
