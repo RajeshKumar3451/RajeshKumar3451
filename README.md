@@ -49,7 +49,7 @@ I recently built and deployed a Full-Stack ML application that predicts weight l
 
 ---
 ### 📫 Let's Connect!
-[💼 LinkedIn](www.linkedin.com/in/rajesh-kumar-9aa2261b7) | [📧 Email](hrajeshkumaran@gmail.com)
+[💼LinkedIn](https://www.linkedin.com/in/rajesh-kumar-9aa2261b7/) | [📧 Email](hrajeshkumaran@gmail.com)
 
 ---
 
