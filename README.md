@@ -27,7 +27,7 @@ I enjoy transforming raw data into scalable intelligent systems using end-to-end
 A production-grade behavioral anomaly detection platform designed to identify suspicious user behavior using Machine Learning.
 
 ### 🚀 Live Demo
-🌐 Dashboard: [<img width="38" height="27" alt="image" src="https://github.com/user-attachments/assets/4c80bca4-52d4-45d5-b31b-b452693d29a0" />
+🌐 Dashboard: [<img width="29" height="16" alt="image" src="https://github.com/user-attachments/assets/b7a3bb33-a2ea-4093-b5aa-8a4d7633b2fc" />
 Streamlit](https://anomalyguard-console.streamlit.app/)
 
 ⚡ API Docs: https://anomalyguard-ai.onrender.com/docs
